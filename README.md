@@ -1,7 +1,6 @@
-# Applied Data Science Capstone
-<p align="center">
-  <img src="https://www.istockphoto.com/photo/missile-launch-at-night-the-elements-of-this-image-furnished-by-nasa-gm1050132950-280817552" width="1200">
-</p>
+#  Predicting SpaceX Falcon 9 Landings: A Data Science Capstone
+
+
 
 ## 📄 Summary
 This capstone project will ultimately **predict if the Space X Falcon 9 first stage will land successfully**. 
