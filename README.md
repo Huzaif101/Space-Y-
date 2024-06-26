@@ -1,6 +1,6 @@
 # Applied Data Science Capstone
 <p align="center">
-  <img src="Images/TitlePage.png" width="1200">
+  <img src="https://www.istockphoto.com/photo/missile-launch-at-night-the-elements-of-this-image-furnished-by-nasa-gm1050132950-280817552" width="1200">
 </p>
 
 ## 📄 Summary
